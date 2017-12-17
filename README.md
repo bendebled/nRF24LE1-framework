@@ -36,7 +36,7 @@ If the uploading fails, it is probably because your cable from the buspirate to 
 ## Other informations
 
 - If you intend  to use nRF24LU1 instead of nRF24LE1, look at the commit [87bd1371fdc29e5af2a216959b82cfb132bbcf60](https://github.com/zerog2k/nrfprog/commit/87bd1371fdc29e5af2a216959b82cfb132bbcf60) from [zerog2k/nrfprog](https://github.com/zerog2k/nrfprog)
-- [SDK Documentation](https://github.com/justind000/nrf24le1_wiring)
+- [SDK Documentation](https://github.com/bendebled/nrf24le1_wiring)
 - [nRF24LE1 Datasheet](https://www.nordicsemi.com/kor/nordic/content_download/2443/29442/file/nRF24LE1_Product_Specification_rev1_6.pdf)
 - [nRF24LU1 Datasheet](https://www.nordicsemi.com/eng/nordic/content_download/2727/34078/file/Product_Specification_nRF24LU1_v1_1.pdf)
 
@@ -44,4 +44,5 @@ If the uploading fails, it is probably because your cable from the buspirate to 
 
 Thank you to:
 
+- [justind000/nrf24le1_wiring](https://github.com/justind000/nrf24le1_wiring)
 - [zerog2k/nrf24le1_wiring](https://github.com/zerog2k/nrf24le1_wiring)
